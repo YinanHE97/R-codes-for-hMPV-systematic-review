@@ -1,4 +1,3 @@
-# date:2024-9-12
 # meta-analysis of hMPV among adult and pediatric
 # ======= import data =======
 library(readxl)
